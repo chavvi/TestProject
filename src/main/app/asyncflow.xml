@@ -14,7 +14,7 @@ http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/cor
         <http:listener config-ref="HTTP_Listener_Configuration" path="/async" doc:name="HTTP"/>
 
 
-
+<!-- adding comment to update repo  -->
 <logger level="INFO" doc:name="Logger"/>
 
 <async doc:name="Async">
